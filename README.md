@@ -1,6 +1,6 @@
 # `DevOps for Architect` Masterclass
 
-:penguin: A comprehensive devops tutorial for DevOps Architects.
+:penguin: A comprehensive tutorial for DevOps Architects.
 
 ## 01. Who is a DevOps Architect?
 
