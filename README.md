@@ -28,49 +28,58 @@
 
 ## 04. Course Syllabus
 
-| Serial.No | Module                                    | Sub-module                                         |
-| :-------: | :---------------------------------------- | :------------------------------------------------- |
-|     1     | **Introduction to DevOps**                | What is DevOps?                                    |
-|           |                                           | Continuous Integration                             |
-|           |                                           | Continuous Delivery                                |
-|           |                                           |                                                    |
-|     2     | **Cloud Computing with AWS**              | What is Cloud computing?                           |
-|           |                                           | Cloud Deployment Models                            |
-|           |                                           | Cloud Service Models                               |
-|           |                                           | AWS Primer                                         |
-|           |                                           | Well Architected Framework                         |
-|           |                                           | Solutions Architect Perspective to DevOps          |
-|           |                                           |                                                    |
-|     3     | **Design Version Control System**         | What is VCS?                                       |
-|           |                                           | Git Architecture                                   |
-|           |                                           | Designing VCS solutions                            |
-|           |                                           | Labs                                               |
-|           |                                           |                                                    |
-|     4     | **Planning & Designing Build solutions**  | What is Build process in SDLC?                     |
-|           |                                           | Why & What is Maven?                               |
-|           |                                           | Maven LifeCycle and Architecture                   |
-|           |                                           | Labs                                               |
-|           |                                           | Why & What is Jenkins?                             |
-|           |                                           | Design build solutions using Jenkins               |
-|           |                                           | Static Code Analysis, Code coverage & Unit Testing |
-|           |                                           | CI/CD Pipeline using Jenkins                       |
-|           |                                           | Labs                                               |
-|           |                                           |                                                    |
-|     5     | **Containers**                            | Why & What is Containers?                          |
-|           |                                           | Docker Architecture                                |
-|           |                                           | Docker Container Lifecycle                         |
-|           |                                           | Design CI/CD pipeline of containerized Apps        |
-|           |                                           | Labs                                               |
-|           |                                           | What is Container Orchestration?                   |
-|           |                                           | Kubernetes Architecture                            |
-|           |                                           | K8s Distributions                                  |
-|           |                                           | K8s API Primitives (Objects)                       |
-|           |                                           | Design CI/CD pipeline for K8s Apps                 |
-|           |                                           | Deployment Strategies                              |
-|           |                                           | Labs                                               |
-|           |                                           |                                                    |
-|     6     | **Design Infrastructure solutions**       |                                                    |
-|           |                                           |                                                    |
-|     7     | **Desing Config Management solutions**    |                                                    |
-|           |                                           |                                                    |
-|     8     | **Design Governance & Monitor solutions** |                                                    |
+| Serial.No | Module                                        | Sub-module                                         |
+| :-------: | :-------------------------------------------- | :------------------------------------------------- |
+|     1     | **Introduction to DevOps**                    | What is DevOps?                                    |
+|           |                                               | SDLC Process                                       |
+|           |                                               | Continuous Integration (CI)                        |
+|           |                                               | Continuous Delivery (CD)                           |
+|           |                                               |                                                    |
+|     2     | **Cloud Computing with AWS**                  | What is Cloud computing?                           |
+|           |                                               | Cloud Deployment Models                            |
+|           |                                               | Cloud Service Models                               |
+|           |                                               | AWS Primer                                         |
+|           |                                               | Well Architected Framework                         |
+|           |                                               | Solutions Architect perspective to DevOps          |
+|           |                                               |                                                    |
+|     3     | **Design Version Control System**             | What is VCS?                                       |
+|           |                                               | Git Architecture                                   |
+|           |                                               | Designing git based VCS solutions                  |
+|           |                                               | Labs                                               |
+|           |                                               |                                                    |
+|     4     | **Planning & Designing Build solutions**      | What is Build process in SDLC?                     |
+|           |                                               | Why & What is Maven?                               |
+|           |                                               | Maven LifeCycle and Architecture                   |
+|           |                                               | Labs                                               |
+|           |                                               | Why & What is Jenkins?                             |
+|           |                                               | Design build solutions using Jenkins               |
+|           |                                               | Static Code Analysis, Code coverage & Unit Testing |
+|           |                                               | CI/CD Pipeline using Jenkins                       |
+|           |                                               | Labs                                               |
+|           |                                               |                                                    |
+|     5     | **Containers**                                | Why & What is Containers?                          |
+|           |                                               | Docker Architecture                                |
+|           |                                               | Docker Container Lifecycle                         |
+|           |                                               | Design CI/CD pipeline of containerized Apps        |
+|           |                                               | Labs                                               |
+|           |                                               | What is Container Orchestration?                   |
+|           |                                               | `Kubernetes` Architecture                          |
+|           |                                               | Kubernetes Distributions                           |
+|           |                                               | Kubernetes API Primitives (Objects)                |
+|           |                                               | Design CI/CD pipeline for K8s Apps                 |
+|           |                                               | Deployment Strategies                              |
+|           |                                               | Labs                                               |
+|           |                                               |                                                    |
+|     6     | **Design Infrastructure solutions**           | Introduction Infrastructure Orchestrations         |
+|           |                                               | Design for VMs and Kubernetes                      |
+|           |                                               | Various tools for infra management                 |
+|           |                                               | `Hashicorp Terraform` for IaC                      |
+|           |                                               | Labs                                               |
+|           |                                               |                                                    |
+|     7     | **Design Configuration Management solutions** | What is Config Management?                         |
+|           |                                               | Designing config management solutions              |
+|           |                                               | Tools selection                                    |
+|           |                                               | Labs: Config Management using `Ansible`            |
+|           |                                               |                                                    |
+|     8     | **Design Governance & Monitor solutions**     |                                                    |
+|           |                                               |                                                    |
